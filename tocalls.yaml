@@ -2010,6 +2010,13 @@ tocalls:
    vendor: GM1WKR
    model: NetSked
    class: software
+ 
+ - tocall: APZM20
+   vendor: M20 radiosonde
+   model: m20-custom-firmware
+   class: tracker
+   os: embedded
+   contact: pawel.sq2ips@gmail.com
 
  - tocall: APnnnD
    vendor: Painter Engineering
